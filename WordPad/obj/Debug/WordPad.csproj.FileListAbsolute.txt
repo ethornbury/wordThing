@@ -1,0 +1,14 @@
+P:\c#\WordPad\WordPad\bin\Debug\WordPad.exe.config
+P:\c#\WordPad\WordPad\bin\Debug\WordPad.exe
+P:\c#\WordPad\WordPad\bin\Debug\WordPad.pdb
+P:\c#\WordPad\WordPad\obj\Debug\WordPad.csprojResolveAssemblyReference.cache
+P:\c#\WordPad\WordPad\obj\Debug\WordPad.Properties.Resources.resources
+P:\c#\WordPad\WordPad\obj\Debug\WordPad.csproj.GenerateResource.Cache
+P:\c#\WordPad\WordPad\obj\Debug\WordPad.exe
+P:\c#\WordPad\WordPad\obj\Debug\WordPad.pdb
+P:\c#\WordPad\WordPad\obj\Debug\WordPad.AboutBox1.resources
+P:\c#\WordPad\WordPad\obj\Debug\WordPad.Emer.resources
+P:\c#\WordPad\WordPad\bin\Debug\WordPad.exe.manifest
+P:\c#\WordPad\WordPad\bin\Debug\WordPad.application
+P:\c#\WordPad\WordPad\obj\Debug\WordPad.exe.manifest
+P:\c#\WordPad\WordPad\obj\Debug\WordPad.application
